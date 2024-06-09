@@ -21,4 +21,4 @@ Question asked :
 12. Is there a correlation between postal votes % and voter turnout %?
 13. Is there any correlation between GDP of a state and voter turnout %??
 14. Is there any correlation between literacy % of a state and voter turnout %?
-  Provide 3 recommendations on what the election commission /government can do to increase the voter turnout %?
+Provide 3 recommendations on what the election commission /government can do to increase the voter turnout %?
