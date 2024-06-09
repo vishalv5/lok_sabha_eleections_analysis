@@ -1,6 +1,6 @@
 # lok_sabha_eleections_analysis
 
-linkedln link - 
+linkedln link - https://www.linkedin.com/posts/vishal-verma-4632a1244_lok-sabha-election-analysis-activity-7205617190505480192-oZki?utm_source=share&utm_medium=member_desktop
 
 Problem Statement :-  AtliQ Media is a private media company and they wanted to telecast a show on Lok Sabha elections 2024 in India. Unlike other channels they do not want to have a debate on who is going to win this election, they rather wanted to present insights from 2014 and 2019 elections without any bias and discuss less explored themes like voter turnout percentage in India. Peter is a data analyst in the company, and he is handed over this task of generating meaningful insights from data. Since this is a sensitive topic, he seeked help from his manager Tony Sharma who provided the list of primary and secondary questions.
 
